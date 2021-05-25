@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @merdyst
 - 👀 I’m interested in self development and product development
-- 🌱 I’m currently learning in Deep Learning Skill to enhance my skill to tackle future problem
+- 🌱 I’m currently learning in Computing Skill to enhance my skill to tackle future problem
 - 📫 How to reach me https://www.linkedin.com/in/merdyanto/
 
 <!---
